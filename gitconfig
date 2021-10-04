@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mrtnsndstrm@gmail.com
+	name = marten sandstrom
